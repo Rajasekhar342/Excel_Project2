@@ -8,6 +8,7 @@ OBJECTIVE: is to clean and analyze the data to solve below bussiness problems
 * Relationship between Salary and Rating
 * Company growth over time
 * Regional Scorecard(Ind vs Nz)
+
 Learnings: Data Cleaning, Power Query, Formulas, VLOOKUP, Pivot Tables and Charts etc..
 Results:
 ![Charts](https://github.com/Rajasekhar342/Excel_Project2/assets/101009856/92b19b5e-9c26-45f0-998e-c9d58f40f79b)
