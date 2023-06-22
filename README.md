@@ -3,7 +3,7 @@ Note: above file contains data of a chocolate factory company employees working 
 
 OBJECTIVE: is to clean and analyze the data to solve below bussiness problems 
 * Male vs Female Comparision
-* Calculat Annual Bonus
+* Calculate Annual Bonus
 * Analyze Salary Spread
 * Relationship between Salary and Rating
 * Company growth over time
