@@ -1,5 +1,5 @@
 # Excel_Project2
-Note: above file contains data of chocolate factory employees.
+Note: above file contains data of a chocolate factory company employees working in New Zealand and India.
 
 OBJECTIVE: is to clean and analyze the data to solve below bussiness problems 
 * Male vs Female Comparision
